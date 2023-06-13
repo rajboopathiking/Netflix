@@ -1,2 +1,2 @@
 # Netflix Regression AutoML
-[Notebook Name](Regression.ipynb)
+[Netflix Regression AutoML](Regression.ipynb)
